@@ -1,3 +1,8 @@
-for i in range(10,0,-1):
-    print(i, end=' ')
-# Output: 10 9 8 7 6 5 4 3 2 1
+for i in range(100,0,-1):
+if (number % 5 == 0)
+print("Agile")
+Else if (number % 3 == 0)
+print("Software")
+else if ((number % 5 == 0) and (number % 3 == 0))
+print(Testing)
+else print i
